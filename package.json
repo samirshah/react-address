@@ -1,0 +1,22 @@
+{
+  "name": "react-address-component",
+  "version": "1.0.0",
+  "description": "react-address-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirshah/react-address.git"
+  },
+  "keywords": [
+    "react-address"
+  ],
+  "author": "Samir Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samirshah/react-address/issues"
+  },
+  "homepage": "https://github.com/samirshah/react-address#readme"
+}
